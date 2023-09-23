@@ -1,7 +1,7 @@
 # Weekly Programming Challenges 2023 🚀
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Language: Python](https://img.shields.io/badge/Language-Python-blue.svg)
+![Language: Golang](https://img.shields.io/badge/Language-Python-blue.svg)
 
 ## 📋 Table of Contents
 
