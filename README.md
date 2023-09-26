@@ -14,21 +14,23 @@
 
 ## 🌟 Introduction
 
-This repository is aimed at solving weekly programming challenges from [Retos de Programación](https://retosdeprogramacion.com/semanales2023). It serves as both a practice ground and a handy collection of coding snippets for future reference. 
+This repository is aimed at solving weekly programming challenges from [Retos de Programación](https://retosdeprogramacion.com/semanales2023). It serves as both a practice ground and a handy collection of coding snippets for future reference.
 
 ## 🛠 Getting Started
 
 ### Installation
 
 1. Clone the repository
-    ```bash
-    git clone https://github.com/your-username/weekly-programming-challenges-2023.git
-    ```
+
+   ```bash
+   git clone https://github.com/your-username/weekly-programming-challenges-2023.git
+   ```
 
 2. Navigate into the directory
-    ```bash
-    cd weekly-programming-challenges-2023
-    ```
+
+   ```bash
+   cd weekly-programming-challenges-2023
+   ```
 
 3. Start coding! 🎉
 
@@ -52,3 +54,7 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 - [Retos de Programación](https://retosdeprogramacion.com/semanales2023) for providing the challenges
 - Anyone who contributes to this repository
+
+## INDICE
+
+0. Fizz-Buzz
